@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--轮播联网资源颜色-->
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gray">#666666</color>
+    <!--DiaLog-->
+    <color name="circle">#aa738ffe</color>
+    <color name="rect">#aae84e40</color>
+    <color name="triangle">#aa72d572</color>
+    <color name="view_bg">#00000000</color>
+    <color name="shadow">#25808080</color>
+
+    <!--主题色和字体色-->
+    <color name="themeColor">#ea00</color>
+    <color name="text_sed">#515151</color>
+</resources>
